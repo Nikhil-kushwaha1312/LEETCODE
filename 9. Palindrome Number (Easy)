@@ -1,0 +1,15 @@
+// 9. Palindrome Number
+// Code in C
+
+bool isPalindrome(int x) {
+    int a=x;
+    int b=0;
+    long long temp=0;
+    if(a<0) return 0;
+    while(x!=0){
+        temp=temp*10+x%10;
+        x/=10;
+    }
+    if(a==temp) return 1;
+    else return 0;
+}
