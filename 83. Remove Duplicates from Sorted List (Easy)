@@ -1,0 +1,13 @@
+// 83. Remove Duplicates from Sorted List
+// Code in C
+
+struct ListNode*deleteDuplicates(struct ListNode* head) {
+    struct ListNode*current =head;
+    while (current != NULL) {
+        while (current->next != NULL && current->val == current->next->val) {
+            current->next=current->next->next;
+        }
+        current=current->next;
+    }
+    return head;
+}
