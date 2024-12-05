@@ -1,0 +1,19 @@
+bool isHappy(int n) {
+    int p=n;
+    int q=n;
+    do{
+        p=sum(p);
+        q=sum(sum(q));
+    }while(p!=q);
+    return p==1;
+}
+
+int sum(int n){
+    int sum=0;
+    while(n>0){
+        int digit=n%10;
+        sum+=digit*digit;
+        n=n/10;
+    }
+    return sum;
+}
