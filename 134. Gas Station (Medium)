@@ -1,0 +1,26 @@
+class Solution {
+public:
+    int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
+        int start = 0;
+    int total = 0;
+    int tank = 0;
+    int n = gas.size();
+    
+    for (int i = 0; i < n; i++) {
+        int petrol = gas[i];
+        int distance = petrol - cost[i];
+        tank += distance;
+        total += distance;
+        
+        if (tank < 0) {
+            // If tank is negative, we cannot continue from the current 'start', so move the 'start' to the next station
+            start = i + 1;
+            tank = 0;  // Reset the tank as we start the new journey from the next station.
+        }
+    }
+    
+    // If the total gas accumulated is non-negative, we can complete the circuit starting from 'start'.
+    return total >= 0 ? start : -1;
+        
+    }
+};
