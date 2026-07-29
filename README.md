@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
