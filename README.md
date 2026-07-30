@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
