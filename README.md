@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0198-house-robber](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0198-house-robber/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0198-house-robber](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0198-house-robber/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
