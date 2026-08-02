@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
