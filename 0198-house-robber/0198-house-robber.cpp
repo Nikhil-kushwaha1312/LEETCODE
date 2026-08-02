@@ -4,14 +4,15 @@ public:
         int n=nums.size();
         if(n==0) return 0;
         if(n==1) return nums[0];
-        vector<int>dp(n);
-        dp[0]=nums[0];
-        dp[1]=max(nums[1],nums[0]);
-        for(int i=2;i<n;i++){
-            int not_take=dp[i-1];
-            int take=nums[i]+dp[i-2];
-            dp[i]=max(take,not_take);
+        int prev2=0;
+        int prev1=nums[0];
+        for(int i=1;i<n;i++){
+            int not_take=prev1;
+            int take=nums[i]+prev2;
+            int curr=max(take,not_take);
+            prev2=prev1;
+            prev1=curr;
         }
-        return dp[n-1];
+        return prev1;
     }
 };
