@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
