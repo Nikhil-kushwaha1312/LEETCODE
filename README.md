@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1768-merge-strings-alternately/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
