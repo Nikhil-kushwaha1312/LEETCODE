@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3945-digit-frequency-score/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
