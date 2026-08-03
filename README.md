@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3945-digit-frequency-score/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
