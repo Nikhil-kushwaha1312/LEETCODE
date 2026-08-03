@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
