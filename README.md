@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -96,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
