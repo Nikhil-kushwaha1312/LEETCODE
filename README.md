@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3701-compute-alternating-sum](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
