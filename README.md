@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0063-unique-paths-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
