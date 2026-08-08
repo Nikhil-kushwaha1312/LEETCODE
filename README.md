@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1768-merge-strings-alternately](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3945-digit-frequency-score/) | Easy |
