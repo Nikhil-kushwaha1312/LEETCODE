@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
