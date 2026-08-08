@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
