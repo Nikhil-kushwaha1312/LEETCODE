@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0322-coin-change/) | Medium |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -137,9 +139,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0062-unique-paths/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
