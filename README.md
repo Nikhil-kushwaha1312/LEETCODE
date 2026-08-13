@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/3945-digit-frequency-score/) | Easy |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0204-count-primes/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
