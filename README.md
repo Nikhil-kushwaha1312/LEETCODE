@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0078-subsets/) | Medium |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Nikhil-kushwaha1312/LEETCODE/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
